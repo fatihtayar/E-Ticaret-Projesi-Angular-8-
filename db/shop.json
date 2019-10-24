@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 3000,
+      "categoryId": 1,
+      "description": "Asus N56VZ",
+      "imageUrl": "https://www.notebookcheck.net/typo3temp/_processed_/4/b/csm_asusN56VZ_silver__1_ffe70ca3a5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 150,
+      "categoryId": 2,
+      "description": "Logitech G300",
+      "imageUrl": "https://productimages.hepsiburada.net/s/10/432/8907543445554.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "price": 250,
+      "categoryId": 3,
+      "description": "Logitech G910 Orion",
+      "imageUrl": "https://www.itopya.com/picture500x0/LOGITECH-G910-Orion-Spark-Gaming-Mekanik-Q-Ingilizce-Klavye-0.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "price": 4000,
+      "categoryId": 1,
+      "description": "Monster Abra A5",
+      "imageUrl": "https://www.incelemede.com/wp-content/uploads/thumbs_dir/Monster-Abra-A5-V13.1-incelemede-ntf39xpqi1qlr7ur4rjj08gujhtdltgbettujrcww8.png"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "price": 4700,
+      "categoryId": 1,
+      "description": "MSI GE63 i7-8750H",
+      "imageUrl": "https://www.extra-imagens.com.br/Informatica/Notebook/12774076/1116361464/notebook-gamer-msi-ge63-i7-8750h-fhd-156-placa-gtx-1060-ssd-120gb-nvme-ram-16gb-12774076.jpg"
+    },
+    {
+      "name": "Kicker",
+      "description": "Kicker 500W Subwoofer",
+      "imageUrl": "https://productimages.hepsiburada.net/s/8/500/9094709149746.jpg",
+      "price": "399",
+      "categoryId": "4",
+      "id": 6
+    },    
+    {
+      "name": "Rampage ",
+      "description": "Rampage Claymore Siyah",
+      "imageUrl": "https://www.itopya.com/picture500x0/Everest-Rampage-Claymore-Siyah-USB-Turkce-Q-Multimedia-Gaming-Klavye.jpg",
+      "price": "599.50",
+      "categoryId": "3",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Mouse"
+    },
+    {
+      "id": 3,
+      "name": "Keyboard"
+    },
+    {
+      "id": 4,
+      "name": "Speaker"
+    },
+    {
+      "id": 5,
+      "name": "Application"
+    }
+  ]
+}
