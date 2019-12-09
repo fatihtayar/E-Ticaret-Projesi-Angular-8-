@@ -1,4 +1,5 @@
-# Shop
+# E-Ticaret App
+![demo](https://user-images.githubusercontent.com/32718869/70473527-4b828f00-1ae2-11ea-89d6-a626b2d60cd5.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
 
